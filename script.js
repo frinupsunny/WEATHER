@@ -1,6 +1,6 @@
 async function searchCity() {
     const city = document.getElementById("city").value;
-    const API_KEY = "";  // Replace
+    const API_KEY = "7de9b3b5818383944826406fc7e4a1be";  // Replace
 
     document.getElementById("output").innerText = "Loading...";
 
